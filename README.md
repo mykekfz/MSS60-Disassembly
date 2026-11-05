@@ -2,7 +2,7 @@
 
 Calibration definitions and reverse-engineering material for the Siemens/BMW **MSS60** engine control unit (S65 V8), production software **V762.01-B500.02**, calibration **7848136** (ZB 241E).
 
-Created by ZiMMIe for the M5Board and Nam3Forum communities.. The goal is to make this information freely available, encourage collaboration, and let others learn from it, use it and add their own knowledge.
+Created by ZiMMie for the M5Board and Nam3Forum communities.. The goal is to make this information freely available, encourage collaboration, and let others learn from it, use it and add their own knowledge.
 
 ## Contents
 
